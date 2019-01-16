@@ -6,7 +6,7 @@ import SolverSelector from './SolverSelector';
 
 (async () => {
   try {
-    console.log(`${EOL}======= ADVENT OF CODE 2016 =======${EOL}`);
+    console.log(`${EOL}======= ADVENT OF CODE 2015 =======${EOL}`);
     const { day, variant } = ArgsParser.parse(process.argv);
     const solver = SolverSelector.select(day, variant);
 
