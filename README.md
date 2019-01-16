@@ -1,6 +1,6 @@
-# advent-of-code-2018
+# advent-of-code-2015
 
-Solutions for Advent of Code 2016
+Solutions for Advent of Code 2015
 
 ## Run
 
